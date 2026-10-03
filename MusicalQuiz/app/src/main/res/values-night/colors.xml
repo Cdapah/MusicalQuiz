@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary colors - darker blue for dark theme -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_light">#64B5F6</color>
+    <color name="primary_light_transparent">#3364B5F6</color>
+    
+    <!-- Secondary colors - warmer orange for dark theme -->
+    <color name="secondary">#FF7043</color>
+    <color name="secondary_dark">#E64A19</color>
+    <color name="secondary_light">#FFAB91</color>
+    
+    <!-- Accent colors -->
+    <color name="accent">#FFA726</color>
+    <color name="accent_variant">#FB8C00</color>
+    
+    <!-- Text colors - lighter for dark theme -->
+    <color name="text_primary">#EEEEEE</color>
+    <color name="text_secondary">#B0BEC5</color>
+    <color name="text_hint">#78909C</color>
+    <color name="divider">#424242</color>
+    
+    <!-- Background colors - darker for dark theme -->
+    <color name="background">#121212</color>
+    <color name="background_transparent">#99121212</color>
+    <color name="background_light">#1E1E1E</color>
+    <color name="surface">#1E1E1E</color>
+    
+    <!-- Status colors -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#EF5350</color>
+    <color name="warning">#FFD54F</color>
+    <color name="info">#42A5F5</color>
+</resources>
